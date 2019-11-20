@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Lounge</string>
+    <string name="prompt_tablenum">Table number</string>
+    <string name="IP">13.90.97.15</string>
+    <string name="action_sign_in_short">Activate</string>
+    <string name="action_activate">Activate</string>
+    <string name="action_disconnect">Disconnect</string>
+</resources>
